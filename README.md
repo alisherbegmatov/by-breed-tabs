@@ -1,6 +1,6 @@
 # By Breed Navigation
 
-![GIF](https://github.com/alisherbegmatov/by-breed-navigation/blob/main/iOS.gif)
+![GIF](https://github.com/alisherbegmatov/by-breed-tabs/blob/main/iOS.gif)
 
 This is a [React Native App](https://reactnative.dev) that presents cats and dogs breeds and their characteristics.
 
