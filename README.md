@@ -1,4 +1,4 @@
-# By Breed Navigation
+# By Breed Tabs
 
 ![GIF](https://github.com/alisherbegmatov/by-breed-tabs/blob/main/iOS.gif)
 
